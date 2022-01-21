@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1642777746525,2080,GetAPI,200,OK,Thread Group 1-3,text,true,,1864,123,10,10,https://reqres.in/api/users,2073,0,1805
+1642777746469,2136,GetAPI,200,OK,Thread Group 1-2,text,true,,1864,123,10,10,https://reqres.in/api/users,2130,0,1861
+1642777747220,1385,GetAPI,200,OK,Thread Group 1-10,text,true,,1862,123,10,10,https://reqres.in/api/users,1378,0,1110
+1642777747022,1583,GetAPI,200,OK,Thread Group 1-8,text,true,,1868,123,10,10,https://reqres.in/api/users,1576,0,1315
+1642777746469,2136,GetAPI,200,OK,Thread Group 1-1,text,true,,1862,123,10,10,https://reqres.in/api/users,2130,0,1861
+1642777746830,1775,GetAPI,200,OK,Thread Group 1-6,text,true,,1864,123,10,10,https://reqres.in/api/users,1768,0,1501
+1642777748610,276,PostAPI,201,Created,Thread Group 1-3,text,true,,859,220,10,10,https://reqres.in/api/users,276,0,0
+1642777748610,276,PostAPI,201,Created,Thread Group 1-8,text,true,,866,220,10,10,https://reqres.in/api/users,276,0,0
+1642777748610,276,PostAPI,201,Created,Thread Group 1-10,text,true,,865,220,10,10,https://reqres.in/api/users,276,0,0
+1642777748610,276,PostAPI,201,Created,Thread Group 1-2,text,true,,873,220,10,10,https://reqres.in/api/users,276,0,0
+1642777748610,276,PostAPI,201,Created,Thread Group 1-1,text,true,,863,220,10,10,https://reqres.in/api/users,276,0,0
+1642777748610,282,PostAPI,201,Created,Thread Group 1-6,text,true,,865,220,5,5,https://reqres.in/api/users,282,0,0
+1642777746923,2382,GetAPI,200,OK,Thread Group 1-7,text,true,,1868,123,4,4,https://reqres.in/api/users,2381,0,1407
+1642777746725,2600,GetAPI,200,OK,Thread Group 1-5,text,true,,1872,123,4,4,https://reqres.in/api/users,2600,0,2366
+1642777749326,256,PostAPI,201,Created,Thread Group 1-5,text,true,,861,220,4,4,https://reqres.in/api/users,256,0,0
+1642777749305,924,PostAPI,201,Created,Thread Group 1-7,text,true,,869,220,3,3,https://reqres.in/api/users,924,0,0
+1642777746624,3723,GetAPI,200,OK,Thread Group 1-4,text,true,,1870,123,2,2,https://reqres.in/api/users,3723,0,3491
+1642777747120,3374,GetAPI,200,OK,Thread Group 1-9,text,true,,1866,123,2,2,https://reqres.in/api/users,2440,0,2210
+1642777750495,257,PostAPI,201,Created,Thread Group 1-9,text,true,,875,220,2,2,https://reqres.in/api/users,257,0,0
+1642777750348,939,PostAPI,201,Created,Thread Group 1-4,text,true,,859,220,1,1,https://reqres.in/api/users,938,0,0
